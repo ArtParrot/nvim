@@ -1,5 +1,12 @@
 let g:netrw_dirhistmax  =10
 let g:netrw_dirhistcnt =3
-let g:netrw_dirhist_3='/home/parrot/OpenSource/dwm'
-let g:netrw_dirhist_2='/home/artparrot/OpenSource/suckless/dwm'
-let g:netrw_dirhist_1='/home/artparrot/Source/vim'
+let g:netrw_dirhist_3='/home/parrot/Git/theniceboyconfig/zsh'
+let g:netrw_dirhist_2='/home/parrot/Code/C'
+let g:netrw_dirhist_1='/home/parrot/OpenSource/suckless/st'
+let g:netrw_dirhist_0='/home/parrot/OpenSource/suckless'
+let g:netrw_dirhist_9='/home/parrot/OpenSource'
+let g:netrw_dirhist_8='/home/parrot/OpenSource/suckless/st'
+let g:netrw_dirhist_7='/home/parrot/OpenSource/suckless'
+let g:netrw_dirhist_6='/home/parrot/OpenSource'
+let g:netrw_dirhist_5='/home/parrot/.config/alacritty'
+let g:netrw_dirhist_4='/home/parrot/Code/C'
